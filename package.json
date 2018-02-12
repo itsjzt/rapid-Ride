@@ -1,7 +1,9 @@
 {
-  "name": "rapid-Ride",
+  "name": "rapidride",
   "version": "1.0.0",
-  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
   "repository": "https://github.com/itsjzt/rapid-Ride",
   "author": "itsjzt <saurabh.19@outlook.com>",
   "license": "MIT",
