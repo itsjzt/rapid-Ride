@@ -1,0 +1,11 @@
+{
+  "name": "rapid-Ride",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/itsjzt/rapid-Ride",
+  "author": "itsjzt <saurabh.19@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
